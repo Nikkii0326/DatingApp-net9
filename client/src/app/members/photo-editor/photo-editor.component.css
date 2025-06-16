@@ -1,0 +1,14 @@
+.my-drop-zone {
+  writing-mode: horizontal-tb !important;
+  transform: none !important;
+  white-space: normal !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.nv-file-over {
+  border: dotted 3px white;
+}
